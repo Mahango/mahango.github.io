@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Matthew Vickery
+title: Mahango
 locale: en_GB
-description: One-time artist from Cornwall.
-logo: matthew-vickery.png
+description: Web development.
+logo: mahango.png
 search: false
-url: http://mattvick.github.io # http://localhost:4000
+url: http://localhost:4000 # http://mahango.github.io # http://mahango.com
 
 # Jekyll configuration
 
@@ -33,23 +33,23 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Matthew Vickery
-  avatar: matthew-vickery.jpg
-  email: vickery.matthew@gmail.com
+  name: Mahango
+  avatar: mahango.png
+  email: info@mahango.com
   disqus-shortname:
-  twitter: mattvick
-  facebook: mattvick
-  github: mattvick
-  stackexchange: http://stackoverflow.com/users/505107/mattvick
-  linkedin: matthewvickery
-  instagram: mattvick
-  flickr: mattvick
+  twitter: #mahango
+  facebook: #mahango
+  github: mahango
+  stackexchange: #http://stackoverflow.com/users/505107/mahango
+  linkedin: #mahango
+  instagram: #mahango
+  flickr: #mahango
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: mattvick0010
-    analytics: UA-295927-10
+    plus: #mahango
+    analytics: UA-295927-11
     verify:
     ad-client:
     ad-slot:
